@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "QRCode-Generator",
+			"path": "../QRCode-Generator"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "iyebaaa"
+	}
+}
